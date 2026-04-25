@@ -184,7 +184,7 @@ Please edit this `README.md` file in your forked repository to include the follo
 
 - ✅ **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
 - ✅ **I have uploaded the `.ipynb` notebook file.**
-- [ ] **I have ALSO uploaded an HTML or PDF export** of the notebook.
+- ✅ **I have ALSO uploaded an HTML or PDF export** of the notebook.
 - ✅ **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
 - ✅ **My code uses Relative Paths.**
 
